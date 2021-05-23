@@ -1,13 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ListSistemOperasi</string>
-    <string name="list_sistem_operasi">List Sistem Operasi</string>
     <string name="name">Stefanus Dany Supryatna Sinaga</string>
     <string name="email">stefanusdany11121999@gmail.com</string>
-    <string name="about">About</string>
-    <string name="detail">Detail</string>
-    <string name="os_name">OS Name</string>
-    <string name="os_desc">OS Desc</string>
-    <string name="favorit_sistem_operasi">Favorit Sistem Operasi</string>
     <string name="contentdescription">contentDescription</string>
     <string name="location_nregion">Location\nRegion</string>
     <string name="initial_release_nyear">Initial release\nYear</string>
